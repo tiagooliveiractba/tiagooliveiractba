@@ -6,7 +6,7 @@ _About me:_
 - 👯 I’m looking to collaborate on community
 - 🤔 I’m looking for help with PHP and JavaScript
 - 💬 Ask me about me
-- 📫 How to reach me: tiago.oliveira06@gmail.com
+- 📫 How to reach me: tiago.oliveira.ctba@gmail.com
 - 😄 Pronouns: What???
 - ⚡ Fun fact: 🤔
 ##
